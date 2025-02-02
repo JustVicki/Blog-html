@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Antonia's Blog</title>
+    
+</head>
+<body>
+    <div class="menu">ALL ARTICLES</div>
+    <div class="menu">REVIEWS</div>
+    <div class="menu">CONTACT</div>
+    <h1 class="title">Exploring Greece</h1>
+    <h5 class="under_title">Travel</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Dec 7, 2024</h5>
+    <img width = 300px src="destinatie.jpeg" alt = "Aici este o poza din Grecia">
+    <p class="description">Tara mea preferata este Grecia.</p>
+
+    <h1 class="title">Christams Movie</h1>
+    <h5 class="under_title">Movies</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Dec 1, 2024</h5>
+    <img width = 300px src="film.jpg">
+<h1 class="title">Christams Movie</h1>
+    <h5 class="under_title">Movies</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Dec 1, 2024</h5>
+    <img width = 300px src="film.jpg">
+
+    <h1 class="title">Pizza</h1>
+    <h5 class="under_title">Food</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Nov 3, 2024</h5>
+    <img width = 300px src="pizza.jpg">
+
+    <h1 class="title">Sport</h1>
+    <h5 class="under_title">Sport</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">June 9, 2024</h5>
+    <img width = 300px src="sport.jpg">
+</body>
+</html>
+<h1 class="title">Christams Movie</h1>
+    <h5 class="under_title">Movies</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Dec 1, 2024</h5>
+    <img width = 300px src="film.jpg">
+
+    <h1 class="title">Pizza</h1>
+    <h5 class="under_title">Food</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">Nov 3, 2024</h5>
+    <img width = 300px src="pizza.jpg">
+
+    <h1 class="title">Sport</h1>
+    <h5 class="under_title">Sport</h5>
+    <h5 class="under_title">Added by</h5>
+    <h5 class="under_title">Antonia-Stefania Andrei</h5>
+    <h5 class="under_title">June 9, 2024</h5>
+    <img width = 370px src="sport.jpg">
+</body>
+</html>
+
+
+
+
+DOCTYPE html
+<html lang="en">
+chead>
+<meta charset="UTF-8">
+<meta name-"viewport" content="width=device
+
+
+<title>Antonia's Blog</title>
+</head>
+<body>
+<div class="menu">ALL ARTICLES</div>
+<div class="menu">REVIEWS</div>
+<div class="menu">CONTACT</div>
+<h1 class="title">Exploring Greece</h1>
+<h5 class="under _title">Travel</h5>
+<h5 class="under_title">Added by</h5>
+<h5 class-"under title">Antonia-Stefania An
+<h5 class="under_title">Dec 7, 2024<7h5>
+</body>
+</html>
